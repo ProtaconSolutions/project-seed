@@ -7,7 +7,6 @@
 
 ## Submitting bug reports
 * Please detail the affected browser(s) and operating system(s)
-* Please be sure to state which version of php you're using
 
 ## Security Disclosure
 If you have any issue regarding security, please disclose the information responsibly 
