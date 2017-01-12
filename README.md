@@ -6,6 +6,9 @@ Generic Project Seed
 - [ ] Check contents of `.github/ISSUE_TEMPLATE.md` file
 - [ ] Check used license
 
+# Useful tools
+- For TOC (Table Of Contents) creation use [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 # Contributing & issues & questions
 Please see the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for guidelines.
 
